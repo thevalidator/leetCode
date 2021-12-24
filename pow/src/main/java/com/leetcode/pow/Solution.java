@@ -1,12 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.leetcode.pow;
 
 public class Solution {
 
+    // r = n ^ m
+    // m => 1101  -  4 bits (binary)
+    // r = (((1 * n^1)^2 * n^1)^2 * n^0)^2 * n^1
+    
     public double myPowSecond(double x, int n) {
         double result = 1;
         char[] bits = Integer.toBinaryString(Math.abs(n)).toCharArray();
