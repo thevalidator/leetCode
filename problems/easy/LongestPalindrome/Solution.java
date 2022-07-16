@@ -1,7 +1,7 @@
 /*
  * The Krechet Software
  */
-package com.leetcode.problems.easy.LongestPalindrome;
+package com.leetcode.problems.easy.longestpalindrome;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,7 +1,7 @@
 /*
  * The Krechet Software
  */
-package com.leetcode.problems.easy.MergeTwoSortedLists;
+package com.leetcode.problems.easy.mergetwosortedlists;
 
 /**
  * @author theValidator <the.validator@yandex.ru>

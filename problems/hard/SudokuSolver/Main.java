@@ -1,7 +1,7 @@
 /*
  * The Krechet Software
  */
-package com.leetcode.sudokusolver;
+package com.leetcode.problems.hard.sudokusolver;
 
 /**
  * @author theValidator <the.validator@yandex.ru>

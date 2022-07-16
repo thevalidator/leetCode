@@ -2,7 +2,7 @@
  * The Krechet Software
  */
 
-package com.leetcode.addtwonumbers;
+package com.leetcode.problems.medium.addtwonumbers;
 
 /**
  * @author theValidator <the.validator@yandex.ru>

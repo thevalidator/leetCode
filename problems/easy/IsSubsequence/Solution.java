@@ -1,7 +1,7 @@
 /*
  * The Krechet Software
  */
-package com.leetcode.issubsequence;
+package com.leetcode.problems.easy.issubsequence;
 
 /**
  * @author theValidator <the.validator@yandex.ru>

@@ -1,4 +1,4 @@
-package com.leetcode.pow;
+package com.leetcode.problems.medium.pow;
 
 /**
  *

@@ -2,7 +2,7 @@
  * The Krechet Software
  */
 
-package com.leetcode.rotateimage;
+package com.leetcode.problems.medium.rotateimage;
 
 /**
  *

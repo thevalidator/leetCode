@@ -1,4 +1,4 @@
-package com.leetcode.regularexpressionmatching;
+package com.leetcode.problems.hard.regularexpressionmatching;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

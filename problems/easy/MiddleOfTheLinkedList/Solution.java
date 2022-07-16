@@ -1,7 +1,7 @@
 /*
  * The Krechet Software
  */
-package com.leetcode.problems.easy.MiddleOfTheLinkedList;
+package com.leetcode.problems.easy.middleofthelinkedlist;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.leetcode.regularexpressionmatching;
+package com.leetcode.problems.hard.regularexpressionmatching;
 
 /**
  * @author theValidator

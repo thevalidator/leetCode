@@ -2,7 +2,7 @@
  * The Krechet Software
  */
 
-package com.leetcode.issubsequence;
+package com.leetcode.problems.easy.issubsequence;
 
 /**
  *

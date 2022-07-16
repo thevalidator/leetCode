@@ -1,4 +1,4 @@
-package com.leetcode.reverseinteger;
+package com.leetcode.problems.medium.reverseinteger;
 
 public class Solution {
 

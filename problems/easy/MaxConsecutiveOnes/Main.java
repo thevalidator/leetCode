@@ -1,4 +1,4 @@
-package com.leetcode.maxconsecutiveones;
+package com.leetcode.problems.easy.maxconsecutiveones;
 
 public class Main {
 

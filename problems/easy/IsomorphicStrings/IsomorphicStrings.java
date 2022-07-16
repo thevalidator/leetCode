@@ -2,7 +2,7 @@
  * The Krechet Software
  */
 
-package com.leetcode.isomorphicstrings;
+package com.leetcode.problems.easy.isomorphicstrings;
 
 /**
  *

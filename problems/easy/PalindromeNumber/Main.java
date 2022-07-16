@@ -1,4 +1,4 @@
-package com.leetcode.ispalindrome;
+package com.leetcode.problems.easy.palindromenumber;
 
 public class Main {
     public static void main(String[] args) {

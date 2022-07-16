@@ -1,7 +1,7 @@
 /*
  * The Krechet Software
  */
-package com.leetcode.sudokusolver;
+package com.leetcode.problems.hard.sudokusolver;
 
 import java.util.ArrayList;
 import java.util.Arrays;

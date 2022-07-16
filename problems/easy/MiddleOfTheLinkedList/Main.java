@@ -2,7 +2,7 @@
  * The Krechet Software
  */
 
-package com.leetcode.problems.easy.MiddleOfTheLinkedList;
+package com.leetcode.problems.easy.middleofthelinkedlist;
 
 /**
  * @author theValidator <the.validator@yandex.ru>

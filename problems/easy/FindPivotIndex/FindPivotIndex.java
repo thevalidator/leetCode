@@ -2,7 +2,7 @@
  * The Krechet Software
  */
 
-package com.leetcode.findpivotindex;
+package com.leetcode.problems.easy.findpivotindex;
 
 import java.util.Arrays;
 

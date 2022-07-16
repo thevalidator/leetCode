@@ -2,7 +2,7 @@
  * The Krechet Software
  */
 
-package com.leetcode.runningsumof1darray;
+package com.leetcode.problems.easy.runningsumof1darray;
 
 import java.util.Arrays;
 

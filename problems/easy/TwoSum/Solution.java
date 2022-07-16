@@ -1,4 +1,4 @@
-package com.leetcode.twosum;
+package com.leetcode.problems.easy.twosum;
 
 import java.util.HashMap;
 import java.util.Map;
